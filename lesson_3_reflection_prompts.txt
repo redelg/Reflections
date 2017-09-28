@@ -29,4 +29,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You want to make changes in a separate branch for collaborating sending a change you wand a to make to the main code and suggesting a pull request on github, also you can experiment o a new branch making
+    a different version of your main work.
